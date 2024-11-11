@@ -44,8 +44,8 @@ To run the program:
 ```bash
 ./student_info
 ```
-#EXAMPLE USAGE
-
+## Example Usage
+```bash
 **STUDENT INFORMATION SYSTEM**
 
 Enter :
@@ -72,9 +72,8 @@ Enter :
 6.To EXIT 
 
 Enter Your Choice : 2
-FIRST_NAME	LAST_NAME	COURSE		GRADE
-John		Doe		CS101		85.50
+FIRST_NAME        LAST_NAME        COURSE          GRADE
+---------------------------------------------------------
+John              Doe              CS101           85.50
+
 Data saved to student data.txt file.
-
-
-
