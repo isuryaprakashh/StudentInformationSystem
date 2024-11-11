@@ -39,7 +39,11 @@ To compile the program, use the following command:
 gcc -o student_info student_info.c
 
 ```
+To run the program:
 
+```bash
+./student_info
+```
 #EXAMPLE USAGE
 
 **STUDENT INFORMATION SYSTEM**
